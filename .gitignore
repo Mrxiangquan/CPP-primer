@@ -1,0 +1,22 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+*.suo
+*.sqlite
+*.sqlite-journal
+/.vs/VSWorkspaceState.json
+/.vs/CPP-primer/v16/Browse.VC.db
+/第一章：开始/.vs/第一章：开始/v16/ipch/AutoPCH/8bdde565d1832033/MAIN.ipch
+/第一章：开始/.vs/第一章：开始/v16/ipch/AutoPCH/9fb92657582c59da/1.16.ipch
+/第一章：开始/.vs/第一章：开始/v16/ipch/AutoPCH/c169df9aca44c56d/1_16.ipch
+/第一章：开始/.vs/第一章：开始/v16/ipch/AutoPCH/e2e52f8b1ff7d35d/1_16.ipch
+/第一章：开始/.vs/第一章：开始/v16/ipch/AutoPCH/f86a25333715d143/MAIN.ipch
+/第一章：开始/.vs/第一章：开始/v16/Browse.VC.db
+/第一章：开始
+/第二章：变量和基本类型/.vs/第二章：变量和基本类型/v16
+/第二章：变量和基本类型/Debug
+*.sln
+*.vcxproj
+*.filters
+*.user
