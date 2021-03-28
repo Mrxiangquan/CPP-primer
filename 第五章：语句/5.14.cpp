@@ -5,11 +5,14 @@ void title_5_14() {
 	int count = 1;
 	while (cin >> read) {
 		if (read != temp) {
-			cout << temp + "出现了" << count << "次" << endl;
+			if (temp != "") {
+				cout << temp + "连续出现了" << count << "次" << endl;
+			}
 			temp = read;
 			count = 1;
 		}
 		else
 			++count;
 	}
+	return;
 }
